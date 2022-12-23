@@ -5,5 +5,5 @@
   website alongside.
   This website makes use of the key bootstrap components like grid, modals, navbar, forms and others. </h4>
   
-  <h4> Check it out here, [Bootstrap-website](https://ListowelAdolwin.github.io/bootstrap-website/)
+  <h4> Check it out here, (https://ListowelAdolwin.github.io/bootstrap-website/)
   </h4>
